@@ -1,5 +1,5 @@
 # blake
-Public code for Blake C Martin
+Public information about Blake C Martin
 
-This repository contains generic code freely available to the public.
+This repository contains various items related to myself.
 
